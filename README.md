@@ -1,5 +1,5 @@
 ## Hi, I'm Kaitlin ˚୨୧⋆｡˚ ⋆ .・ <img src="https://pa1.aminoapps.com/6718/3520ae055d12b5272d1a17d2a336f166ef2fb6fd_00.gif" width="150" align="right">
-🏢 Software Engineer at Mastercard <br>
+🏢 Software Engineer at  <br>
 🎓 Recent Computer Science graduate from University of Houston <br>
 🚀 Check out my work at [kaitlinwood.vercel.app](https://kaitlinwood.vercel.app/)<br/>
 
